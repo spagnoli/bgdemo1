@@ -84,6 +84,10 @@
                 <td>Pod Port</td>
                 <td><?php echo $_SERVER['SERVER_PORT'] ?></td>
               </tr>
+              <tr>
+                <td>Application Version</td>
+                <td>v1.2.0</td>
+              </tr>              
             </tbody>
           </table>
         </div>

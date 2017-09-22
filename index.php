@@ -86,7 +86,7 @@
               </tr>
               <tr>
                 <td>Application Version</td>
-                <td>v1.5.2</td>
+                <td>v1.6.2</td>
               </tr>              
             </tbody>
           </table>
@@ -94,7 +94,7 @@
         <div class="col-md-6 col-md-offset-3">
           <h2>Application Example</h2>
           <p>
-            <img src="redrose.jpeg">
+            <img src="bluerose.jpeg">
           </p>
         </div>
       </div>

@@ -86,7 +86,7 @@
               </tr>
               <tr>
                 <td>Application Version</td>
-                <td>v1.10.0</td>
+                <td>v2.0.0</td>
               </tr>              
             </tbody>
           </table>

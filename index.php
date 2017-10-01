@@ -38,13 +38,13 @@
           <span class="icon-bar"></span>
         </button>
         <a class="navbar-brand" href="/">
-          <img src="../dist/img/brand.svg" alt="PatternFly Enterprise Application" />
+          <img src="../dist/img/brand.svg" alt="DEMO Application" />
         </a>
       </div>
       <div class="collapse navbar-collapse navbar-collapse-1">
         <ul class="nav navbar-nav navbar-utility">
           <li>
-            <a href="#">Status</a>
+            <a href="/">Status</a>
           </li>
         </ul>
         <ul class="nav navbar-nav navbar-primary">
@@ -86,7 +86,7 @@
               </tr>
               <tr>
                 <td>Application Version</td>
-                <td>v1.9.0</td>
+                <td>v1.10.0</td>
               </tr>              
             </tbody>
           </table>
@@ -94,7 +94,7 @@
         <div class="col-md-6 col-md-offset-3">
           <h2>Application Example</h2>
           <p>
-            <img src="bluerose.jpeg">
+            <img src="redrose.jpeg">
           </p>
         </div>
       </div>
